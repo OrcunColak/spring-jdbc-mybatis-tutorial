@@ -32,6 +32,6 @@ public interface CompanyMapper {
     void createTable();
 
     @Select("SELECT COUNT(*) FROM information_schema.tables WHERE table_name = 'companies'")
-    int tableExists();
+    int tableCount();
 }
 
