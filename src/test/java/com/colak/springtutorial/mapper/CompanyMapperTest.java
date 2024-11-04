@@ -1,6 +1,6 @@
-package com.colak.springjdbcmybatistutorial.mapper;
+package com.colak.springtutorial.mapper;
 
-import com.colak.springjdbcmybatistutorial.model.Company;
+import com.colak.springtutorial.model.Company;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package com.colak.springjdbcmybatistutorial.mapper;
+package com.colak.springtutorial.mapper;
 
-import com.colak.springjdbcmybatistutorial.model.Company;
+import com.colak.springtutorial.model.Company;
 import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
